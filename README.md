@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamieRodger20
+- 👋 Hi, I’m Jamie
 - 👀 I’m interested in coding with Visual Stuido, I'm currenrly working as a Junior Web Designer
 - 🌱 I’m currently learning PHP, SQL and learning the Linux ubuntu 
 - 💞️ I’m looking to collaborate on Anything that looks cool
